@@ -1,11 +1,11 @@
 ## About me
-Your average high schooler! When I don't study, I research and build cool software products. Sometimes I do freelancing work for other companies, the most recent of which included writing a custom data processing solution. Most of my repositories are private due to the nature of the codebases (e.g. company property or unfinished functionality), and they usually stay that way. :-)
+Your average lost teenager. I love researching and building cool software and hardware products, most of which tend to be somewhat low-level. Sometimes I do freelancing work for other companies, the most recent of which included writing a custom data processing solution. Most of my repositories are private due to the nature of the codebases (e.g. company property or unfinished functionality), and they usually stay that way. Oh, and I'm also ideologically against vibe coding and browser-based apps. :-)
 
 ![RedTechTiger's GitHub stats](http://github-readme-stats-nine-sigma-84.vercel.app/api?username=nordtechtiger&show_icons=true&theme=nord)
 
-## Current projects
-Exploring the alternatives to browser-based apps and delving deeper into system-level programming. I'm playing around with WinAPI to achieve performant and lossless HiFi playback, and experimenting with Flutter to provide a snappy, clean, and lightweight user experience. Here are a couple of my way-too-many concurrent projects, excluding paid work:
-- **Harmoni** - A lightweight HiFi music player that supports lossless streaming through WASAPI of FLAC, WAV, and more.
+## In the works
+Exploring the alternatives to browser-based apps and delving deeper into system-level programming. I'm investigating different compiler designs and experimenting with Flutter to provide snappy, clean, and lightweight user experiences. Here are a couple of my way-too-many concurrent projects, excluding paid work:
+- **Harmoni** - A lightweight HiFi music player that supports lossless playback of FLAC, WAV, and more.
 - **Sekure** - A cryptographic library in Rust that aims to simplify writing safe & encrypted files.
 - **Quickbuild** - A simple and intuitive build system for C and C++
 
