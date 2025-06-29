@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> All projects here under my account on GitHub are downstream mirrors of their respective repositories on GitLab. Updated stable releases will be available here, but issues and merge requests should be submitted upstreams.
+
 ## About me
 Your average lost teenager. I love researching and building cool software and hardware products, most of which tend to be somewhat low-level. Sometimes I do freelancing work for other companies, the most recent of which included writing a custom data processing solution. Most of my repositories are private due to the nature of the codebases (e.g. company property or unfinished functionality), and they usually stay that way. Oh, and I'm also ideologically against vibe coding and browser-based apps. :-)
 
